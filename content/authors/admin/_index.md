@@ -43,12 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,7 +61,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhuj37@mail2.sysu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -75,4 +69,4 @@ highlight_name: true
 
 I'm a Ph.D. candidate working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) in the School of Mathematics, SYSU since 2019. I am interested in developing computationally efficient algorithms & softwares with statistical performance guarantees for large scale non-Euclidean/high-dimensional data analysis. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
