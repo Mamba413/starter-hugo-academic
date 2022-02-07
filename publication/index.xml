@@ -5,7 +5,7 @@
     <link>https://mamba413.github.io/publication/</link>
       <atom:link href="https://mamba413.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,55 +13,67 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://mamba413.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Segmentation of Laser Marks of Diabetic Retinopathy in the Fundus Photographs Using Lightweight U-Net</title>
+      <link>https://mamba413.github.io/publication/jiang-segmentation-laser-marks-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/jiang-segmentation-laser-marks-2021/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://mamba413.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>abess: A Fast Best Subset Selection Library in Python and R</title>
+      <link>https://mamba413.github.io/publication/zhu-abess-fast-best-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/zhu-abess-fast-best-2021/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://mamba413.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Ball: An R package for detecting distribution difference and association in metric spaces</title>
+      <link>https://mamba413.github.io/publication/ball-2021-zhu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/ball-2021-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certifiably Polynomial Algorithm for Best Group Subset Selection</title>
+      <link>https://mamba413.github.io/publication/zhang-certifiably-polynomial-algorithm-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/zhang-certifiably-polynomial-algorithm-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Statistical Inference via Metric Distribution Function in Metric Spaces</title>
+      <link>https://mamba413.github.io/publication/wang-nonparametric-statistical-inference-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/wang-nonparametric-statistical-inference-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A polynomial algorithm for best subset selection problem</title>
+      <link>https://mamba413.github.io/publication/zhu-2020-splicing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/zhu-2020-splicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ball covariance: A generic measure of dependence in banach space</title>
+      <link>https://mamba413.github.io/publication/pan-2020-ball/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/pan-2020-ball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-sample test for compositional data with ball divergence</title>
+      <link>https://mamba413.github.io/publication/zhu-twosample-test-compositional-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/zhu-twosample-test-compositional-2019/</guid>
+      <description></description>
     </item>
     
   </channel>

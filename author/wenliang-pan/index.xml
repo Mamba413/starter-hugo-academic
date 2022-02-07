@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenliang Pan | Jin Zhu</title>
+    <link>https://mamba413.github.io/author/wenliang-pan/</link>
+      <atom:link href="https://mamba413.github.io/author/wenliang-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenliang Pan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wenliang Pan</title>
+      <link>https://mamba413.github.io/author/wenliang-pan/</link>
+    </image>
+    
+    <item>
+      <title>Ball: An R package for detecting distribution difference and association in metric spaces</title>
+      <link>https://mamba413.github.io/publication/ball-2021-zhu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/ball-2021-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Statistical Inference via Metric Distribution Function in Metric Spaces</title>
+      <link>https://mamba413.github.io/publication/wang-nonparametric-statistical-inference-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/wang-nonparametric-statistical-inference-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ball covariance: A generic measure of dependence in banach space</title>
+      <link>https://mamba413.github.io/publication/pan-2020-ball/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/pan-2020-ball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-sample test for compositional data with ball divergence</title>
+      <link>https://mamba413.github.io/publication/zhu-twosample-test-compositional-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/zhu-twosample-test-compositional-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
