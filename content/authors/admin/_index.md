@@ -11,7 +11,7 @@ role: Phd of Statistics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sun Yat-Sen University
-  url: https://www.stanford.edu/
+  url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical learning, non-Euclidean data analysis and statistical software.
@@ -45,10 +45,10 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=V84kQ3UAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Mamba413
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
