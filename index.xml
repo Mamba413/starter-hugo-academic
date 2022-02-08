@@ -84,5 +84,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>abess: Fast Best-subset Selection in Python and R</title>
+      <link>https://mamba413.github.io/software/abess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/abess/</guid>
+      <description>&lt;p&gt;abess (Adaptive BEst Subset Selection) library aims to solve general best subset selection, i.e., find a small subset of predictors such that the resulting model is expected to have the highest accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ball: Statistical Inference and Sure Independence Screening via Ball Statistics</title>
+      <link>https://mamba413.github.io/software/ball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/ball/</guid>
+      <description>&lt;p&gt;Hypothesis tests and sure independence screening procedure based on ball statistics, including ball divergence, ball covariance, and ball correlation, are developed to analyze complex data in metric spaces, e.g, shape, directional, compositional and symmetric positive definite matrix data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cdcsis: Conditional Distance Correlation Based Feature Screening and Conditional Independence Inference</title>
+      <link>https://mamba413.github.io/software/cdcsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/cdcsis/</guid>
+      <description>&lt;p&gt;This package provides conditional distance correlation, performs the conditional distance correlation sure independence screening procedure for ultrahigh dimensional data, and conducts conditional distance covariance test for conditional independence assumption of two multivariate variable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robustlm: Robust variable selection with exponential squared loss</title>
+      <link>https://mamba413.github.io/software/robustlm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/robustlm/</guid>
+      <description>&lt;p&gt;The goal of robustlm is to carry out robust variable selection through exponential squared loss. Specifically, it solves a non-convex optimization problem specified in (Wang et al., 2013). Regularization parameters are chosen adaptively by default, while they can be supplied by the user. Block coordinate gradient descent algorithm is used to efficiently solve the optimization problem.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

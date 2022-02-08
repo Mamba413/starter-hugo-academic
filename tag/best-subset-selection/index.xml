@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>best-subset selection | Jin Zhu</title>
+    <link>https://mamba413.github.io/tag/best-subset-selection/</link>
+      <atom:link href="https://mamba413.github.io/tag/best-subset-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>best-subset selection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>best-subset selection</title>
+      <link>https://mamba413.github.io/tag/best-subset-selection/</link>
+    </image>
+    
+    <item>
+      <title>abess: Fast Best-subset Selection in Python and R</title>
+      <link>https://mamba413.github.io/software/abess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/abess/</guid>
+      <description>&lt;p&gt;abess (Adaptive BEst Subset Selection) library aims to solve general best subset selection, i.e., find a small subset of predictors such that the resulting model is expected to have the highest accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

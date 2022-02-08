@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robust variable selection | Jin Zhu</title>
+    <link>https://mamba413.github.io/tag/robust-variable-selection/</link>
+      <atom:link href="https://mamba413.github.io/tag/robust-variable-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>robust variable selection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>robust variable selection</title>
+      <link>https://mamba413.github.io/tag/robust-variable-selection/</link>
+    </image>
+    
+    <item>
+      <title>robustlm: Robust variable selection with exponential squared loss</title>
+      <link>https://mamba413.github.io/software/robustlm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/robustlm/</guid>
+      <description>&lt;p&gt;The goal of robustlm is to carry out robust variable selection through exponential squared loss. Specifically, it solves a non-convex optimization problem specified in (Wang et al., 2013). Regularization parameters are chosen adaptively by default, while they can be supplied by the user. Block coordinate gradient descent algorithm is used to efficiently solve the optimization problem.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

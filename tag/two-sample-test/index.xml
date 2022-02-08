@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>two-sample test | Jin Zhu</title>
+    <link>https://mamba413.github.io/tag/two-sample-test/</link>
+      <atom:link href="https://mamba413.github.io/tag/two-sample-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>two-sample test</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>two-sample test</title>
+      <link>https://mamba413.github.io/tag/two-sample-test/</link>
+    </image>
+    
+    <item>
+      <title>Ball: Statistical Inference and Sure Independence Screening via Ball Statistics</title>
+      <link>https://mamba413.github.io/software/ball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/ball/</guid>
+      <description>&lt;p&gt;Hypothesis tests and sure independence screening procedure based on ball statistics, including ball divergence, ball covariance, and ball correlation, are developed to analyze complex data in metric spaces, e.g, shape, directional, compositional and symmetric positive definite matrix data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

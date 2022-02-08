@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conditional distance covariance | Jin Zhu</title>
+    <link>https://mamba413.github.io/tag/conditional-distance-covariance/</link>
+      <atom:link href="https://mamba413.github.io/tag/conditional-distance-covariance/index.xml" rel="self" type="application/rss+xml" />
+    <description>conditional distance covariance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>conditional distance covariance</title>
+      <link>https://mamba413.github.io/tag/conditional-distance-covariance/</link>
+    </image>
+    
+    <item>
+      <title>cdcsis: Conditional Distance Correlation Based Feature Screening and Conditional Independence Inference</title>
+      <link>https://mamba413.github.io/software/cdcsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/software/cdcsis/</guid>
+      <description>&lt;p&gt;This package provides conditional distance correlation, performs the conditional distance correlation sure independence screening procedure for ultrahigh dimensional data, and conducts conditional distance covariance test for conditional independence assumption of two multivariate variable.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
