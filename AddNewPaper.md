@@ -1,0 +1,3 @@
+- Put a `cite.bib` file that include paper into the root directory (in parallel to the `.github` folder)
+- conduct `academic import --bibtex cite.bib` in terminal (Please install `academic` via `pip3 install -U academic`)
+- 
