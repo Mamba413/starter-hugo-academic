@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hongtu Zhu | Jin Zhu</title>
-    <link>https://mamba413.github.io/author/hongtu-zhu/</link>
-      <atom:link href="https://mamba413.github.io/author/hongtu-zhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hongtu Zhu</description>
+    <title>Shikai Luo | Jin Zhu</title>
+    <link>https://mamba413.github.io/author/shikai-luo/</link>
+      <atom:link href="https://mamba413.github.io/author/shikai-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shikai Luo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Hongtu Zhu</title>
-      <link>https://mamba413.github.io/author/hongtu-zhu/</link>
+      <title>Shikai Luo</title>
+      <link>https://mamba413.github.io/author/shikai-luo/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://mamba413.github.io/publication/shi-2022-off/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://mamba413.github.io/publication/shi-2022-off/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ball covariance: A generic measure of dependence in banach space</title>
-      <link>https://mamba413.github.io/publication/pan-2020-ball/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/pan-2020-ball/</guid>
       <description></description>
     </item>
     

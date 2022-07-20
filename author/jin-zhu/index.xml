@@ -5,12 +5,20 @@
     <link>https://mamba413.github.io/author/jin-zhu/</link>
       <atom:link href="https://mamba413.github.io/author/jin-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jin Zhu</title>
       <link>https://mamba413.github.io/author/jin-zhu/</link>
     </image>
+    
+    <item>
+      <title>Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</title>
+      <link>https://mamba413.github.io/publication/shi-2022-off/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/shi-2022-off/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Segmentation of Laser Marks of Diabetic Retinopathy in the Fundus Photographs Using Lightweight U-Net</title>
