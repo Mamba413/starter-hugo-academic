@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Sun Yat-Sen University
-    year: 2019
+    year: 2023 (Expected)
   - course: MS in Statistics
     institution: Sun Yat-Sen University
-    year: 2016
+    year: 2019
   - course: BS in Statistics
     institution: Sun Yat-Sen University
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
