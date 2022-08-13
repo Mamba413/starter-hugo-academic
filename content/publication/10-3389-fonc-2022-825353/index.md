@@ -1,13 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Splicing Approach to Best Subset of Groups Selection
+title: Computational Analysis of Pathological Image Enables Interpretable Prediction
+  for Microsatellite Instability
 subtitle: ''
 summary: ''
 authors:
-- Yanhang Zhang
-- Junxian Zhu
 - Jin Zhu
+- Wangwei Wu
+- Yuting Zhang
+- Shiyun Lin
+- Yukang Jiang
+- Ruixian Liu
+- Heping Zhang
 - Xueqin Wang
 tags: []
 categories: []
@@ -30,9 +35,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T16:36:09.345246Z'
+publishDate: '2022-08-13T16:36:09.253712Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*INFORMS Journal on Computing (Accepted)*'
+publication: '*Frontiers in Oncology*'
+doi: 10.3389/fonc.2022.825353
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fonc.2022.825353
 ---

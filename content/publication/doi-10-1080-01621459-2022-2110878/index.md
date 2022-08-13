@@ -7,14 +7,14 @@ summary: ''
 authors:
 - Chengchun Shi
 - Jin Zhu
-- Ye Shen
+- Shen Ye
 - Shikai Luo
 - Hongtu Zhu
 - Rui Song
-tags: [reinforcement learning]
+tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-20T20:02:50+08:00
+lastmod: 2022-08-14T00:36:09+08:00
 featured: false
 draft: false
 
@@ -32,9 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T12:02:50.196844Z'
+publishDate: '2022-08-13T16:36:09.162988Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2202.10589*'
+publication: '*Journal of the American Statistical Association (Accepted)*'
+doi: 10.1080/01621459.2022.2110878
+links:
+- name: URL
+  url: https://doi.org/10.1080/01621459.2022.2110878
 ---
