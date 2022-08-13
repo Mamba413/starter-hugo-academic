@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ye Shen | Jin Zhu</title>
-    <link>https://mamba413.github.io/author/ye-shen/</link>
-      <atom:link href="https://mamba413.github.io/author/ye-shen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ye Shen</description>
+    <title>Shen Ye | Jin Zhu</title>
+    <link>https://mamba413.github.io/author/shen-ye/</link>
+      <atom:link href="https://mamba413.github.io/author/shen-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shen Ye</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Ye Shen</title>
-      <link>https://mamba413.github.io/author/ye-shen/</link>
+      <title>Shen Ye</title>
+      <link>https://mamba413.github.io/author/shen-ye/</link>
     </image>
     
     <item>
       <title>Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</title>
-      <link>https://mamba413.github.io/publication/shi-2022-off/</link>
+      <link>https://mamba413.github.io/publication/doi-10-1080-01621459-2022-2110878/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/shi-2022-off/</guid>
+      <guid>https://mamba413.github.io/publication/doi-10-1080-01621459-2022-2110878/</guid>
       <description></description>
     </item>
     
