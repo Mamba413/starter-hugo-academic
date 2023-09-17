@@ -13,6 +13,6 @@ main:
   - name: Softwares
     url: '#software'
     weight: 30
-  - name: Contact
-    url: '#contact'
-    weight: 40
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 40

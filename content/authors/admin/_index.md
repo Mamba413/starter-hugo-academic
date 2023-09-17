@@ -6,20 +6,20 @@ title: Jin Zhu
 superuser: true
 
 # Role/position/tagline
-role: Phd of Statistics
+role: Research Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sun Yat-Sen University
-  url: https://www.sysu.edu.cn/
+- name: Department of Statistic, London School of Economics and Political Science
+  url: https://www.lse.ac.uk/statistics/people
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical learning, non-Euclidean data analysis and statistical software.
+bio: My research interests include reinforcement learning, (statistical) machine learning and statistical software.
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
-- Non-Euclidean Data Analysis
+- Reinforcement Learning
+- (Statistical) Machine Learning
 - Statistical Software
 
 # Education to show in About widget
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Sun Yat-Sen University
-    year: 2023 (Expected)
+    year: 2023
   - course: MS in Statistics
     institution: Sun Yat-Sen University
     year: 2019
@@ -61,12 +61,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhuj37@mail2.sysu.edu.cn"
+email: "J.Zhu69@lse.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm a Ph.D. candidate working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) in the School of Mathematics, SYSU since 2019. I am interested in developing computationally efficient algorithms & softwares with statistical performance guarantees for large scale non-Euclidean/high-dimensional data analysis. 
+I'm a Research Officer working with Prof. [Chengchun Shi](https://callmespring.github.io/) in the Department of Statistics, LSE. I am interested in developing computationally efficient algorithms & softwares with statistical performance guarantees for large scale high-dimensional data analysis. 
+
+Previously, 
+
+- I'm a Ph.D. candidate working with Prof. [You Na](https://www.essex.ac.uk/people/youna85902/na-you) and [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) in the School of Mathematics, SYSU since 2019. During that time, I work on non-Euclidean data analysis. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
