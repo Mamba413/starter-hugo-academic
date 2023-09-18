@@ -71,6 +71,6 @@ I'm a Research Officer working with Prof. [Chengchun Shi](https://callmespring.g
 
 Previously, 
 
-- I'm a Ph.D. candidate working with Prof. [You Na](https://www.essex.ac.uk/people/youna85902/na-you) and [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) in the School of Mathematics, SYSU since 2019. During that time, I work on non-Euclidean data analysis. 
+- I'm a Ph.D. working with Prof. [You Na](https://www.essex.ac.uk/people/youna85902/na-you) and [Xueqin Wang](https://bs.ustc.edu.cn/english/profile-650.html) in the School of Mathematics, SYSU since 2019. During that time, I work on high-dimensional data and non-Euclidean data. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
