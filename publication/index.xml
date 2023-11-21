@@ -5,12 +5,20 @@
     <link>https://mamba413.github.io/publication/</link>
       <atom:link href="https://mamba413.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_huce0c708c02cccb42a61734c6d9fe8a33_159239_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://mamba413.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Nonparametric Statistical Inference via Metric Distribution Function in Metric Spaces</title>
+      <link>https://mamba413.github.io/publication/doi-10-1080-01621459-2023-2277417/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/doi-10-1080-01621459-2023-2277417/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Splicing Approach to Best Subset of Groups Selection</title>
