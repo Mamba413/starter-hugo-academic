@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shikai Luo | Jin Zhu</title>
-    <link>https://mamba413.github.io/author/shikai-luo/</link>
-      <atom:link href="https://mamba413.github.io/author/shikai-luo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shikai Luo</description>
+    <title>1 | Jin Zhu</title>
+    <link>https://mamba413.github.io/publication-type/1/</link>
+      <atom:link href="https://mamba413.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_huce0c708c02cccb42a61734c6d9fe8a33_159239_512x512_fill_lanczos_center_3.png</url>
-      <title>Shikai Luo</title>
-      <link>https://mamba413.github.io/author/shikai-luo/</link>
+      <title>1</title>
+      <link>https://mamba413.github.io/publication-type/1/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://mamba413.github.io/publication/pmlr-v-202-xu-23-x/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://mamba413.github.io/publication/pmlr-v-202-xu-23-x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</title>
-      <link>https://mamba413.github.io/publication/doi-10-1080-01621459-2022-2110878/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mamba413.github.io/publication/doi-10-1080-01621459-2022-2110878/</guid>
       <description></description>
     </item>
     

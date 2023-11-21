@@ -5,12 +5,20 @@
     <link>https://mamba413.github.io/author/rui-song/</link>
       <atom:link href="https://mamba413.github.io/author/rui-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Song</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mamba413.github.io/media/icon_huce0c708c02cccb42a61734c6d9fe8a33_159239_512x512_fill_lanczos_center_3.png</url>
       <title>Rui Song</title>
       <link>https://mamba413.github.io/author/rui-song/</link>
     </image>
+    
+    <item>
+      <title>An Instrumental Variable Approach to Confounded Off-Policy Evaluation</title>
+      <link>https://mamba413.github.io/publication/pmlr-v-202-xu-23-x/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mamba413.github.io/publication/pmlr-v-202-xu-23-x/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</title>
